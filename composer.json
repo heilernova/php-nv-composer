@@ -1,7 +1,7 @@
 {
     "name": "nv-code/phpnv",
     "description": "Libreria para desarrollo de api rest nv-code.com",
-    "license": "GNU General Public License v3.0",
+    "license": "",
     "autoload": {
         "psr-4": {
             "PhpNv\\": "src/"
