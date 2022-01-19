@@ -1,0 +1,17 @@
+{
+    "name": "nv-code/phpnv",
+    "description": "Libreria para desarrollo de api rest nv-code.com",
+    "license": "GNU General Public License v3.0",
+    "autoload": {
+        "psr-4": {
+            "PhpNv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HeilerNova",
+            "email": "81369584+HeilerNova@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

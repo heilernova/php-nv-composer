@@ -1,0 +1,25 @@
+{
+    "application": {
+        "name": "test",
+        "description": ""
+    },
+    "debug": {
+        "path": "errrors/",
+        "access": {
+            "username": "root",
+            "password": "JOSE"
+        }
+    },
+    "databases": {
+        "default": "default",
+        "list": {
+            "default": {
+                "hostname": "localhost",
+                "username": "root",
+                "password": "",
+                "database": "ftc_registro_tirillas_post",
+                "port": null
+            }
+        }
+    }
+}
